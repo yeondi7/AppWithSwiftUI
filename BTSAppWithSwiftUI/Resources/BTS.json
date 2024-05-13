@@ -1,0 +1,44 @@
+[
+   {
+       "nick":"RM",
+       "name":"김남준",
+       "image":"bts1",
+       "desc":"1번째 멤버"
+   },
+   {
+       "nick":"진",
+       "name":"김석진",
+       "image":"bts2",
+       "desc":"2번째 멤버"
+   },
+   {
+       "nick":"슈가",
+       "name":"민윤기",
+       "image":"bts3",
+       "desc":"3번째 멤버"
+   },
+   {
+       "nick":"제이홉",
+       "name":"정호석",
+       "image":"bts4",
+       "desc":"4번째 멤버"
+   },
+   {
+       "nick":"지민",
+       "name":"박지민",
+       "image":"bts5",
+       "desc":"5번째 멤버"
+   },
+   {
+       "nick":"뷔",
+       "name":"김태형",
+       "image":"bts6",
+       "desc":"6번째 멤버"
+   },
+   {
+       "nick":"정국",
+       "name":"전정국",
+       "image":"bts7",
+       "desc":"7번째 멤버"
+   }
+]
